@@ -63,7 +63,7 @@ h1 {
 }
 
 input[type='range'] {
-    -webkit-appearance: none;
+   appearance: none;
     border-radius: var(--borde-redondo);
     background:var(--color-terminal);
     margin: 0;
